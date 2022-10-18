@@ -4,7 +4,7 @@
 
 - 📝 I regularly write articles on [dev.to](dev.to)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **mohammadadnan688@gmail.com**
 
